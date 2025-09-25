@@ -8,7 +8,7 @@ gsap.registerPlugin(ScrollTrigger);
 const AppShowcase = () => {
 	const sectionRef = useRef(null);
 	const rydeRef = useRef(null);
-	const libraryRef = useRef(null);
+	const mojitoRef = useRef(null);
 	const ycDirectoryRef = useRef(null);
 
 	useGSAP(() => {
@@ -20,7 +20,7 @@ const AppShowcase = () => {
 		);
 
 		// Animations for each app showcase
-		const cards = [rydeRef.current, libraryRef.current, ycDirectoryRef.current];
+		const cards = [rydeRef.current, mojitoRef.current, ycDirectoryRef.current];
 
 		cards.forEach((card, index) => {
 			gsap.fromTo(
@@ -64,15 +64,17 @@ const AppShowcase = () => {
 					</div>
 
 					<div className="project-list-wrapper overflow-hidden">
-						<div className="project" ref={libraryRef}>
-							<div className="image-wrapper bg-[#FFEFDB]">
-								<img
-									src="/images/project2.png"
-									alt="Library Management Platform"
-								/>
+						<a
+							href="https://gildedglass.ir"
+							target="_blank"
+							className="project"
+							ref={mojitoRef}
+						>
+							<div className="image-wrapper bg-[#FFEFDB] ">
+								<img src="/images/project2.png" alt="Gilded Glass Project" />
 							</div>
-							<h2>The Library Management Platform</h2>
-						</div>
+							<h2>The Gilded Glass Project</h2>
+						</a>
 
 						<div className="project" ref={ycDirectoryRef}>
 							<div className="image-wrapper bg-[#FFE7EB]">

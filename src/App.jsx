@@ -1,11 +1,11 @@
-import Testimonials from "./sections/Testimonials";
+// import Testimonials from "./sections/Testimonials";
 import Footer from "./sections/Footer";
 import Contact from "./sections/Contact";
 import TechStack from "./sections/TechStack";
-import Experience from "./sections/Experience";
+// import Experience from "./sections/Experience";
 import Hero from "./sections/Hero";
 import ShowcaseSection from "./sections/ShowcaseSection";
-import LogoShowcase from "./sections/LogoShowcase";
+// import LogoShowcase from "./sections/LogoShowcase";
 import FeatureCards from "./sections/FeatureCards";
 import Navbar from "./sections/NavBar";
 
@@ -14,11 +14,11 @@ const App = () => (
 		<Navbar />
 		<Hero />
 		<ShowcaseSection />
-		<LogoShowcase />
+		{/* <LogoShowcase /> */}
 		<FeatureCards />
-		<Experience />
+		{/* <Experience /> */}
 		<TechStack />
-		<Testimonials />
+		{/* <Testimonials /> */}
 		<Contact />
 		<Footer />
 	</>
