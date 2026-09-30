@@ -1,12 +1,52 @@
-# React + Vite
+# Pooya Khani | Front-end Developer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my portfolio repository. This project showcases my work as a Front-end Developer, focusing on clean code, responsive design, and performance.
 
-Currently, two official plugins are available:
+🔗 **Live Website:** [pooya-khani.ir](https://pooya-khani.ir)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 👨‍💻 About Me
+I am Pooya Khani, a passionate Front-end Developer dedicated to building interactive, user-friendly, and high-performance web interfaces. I specialize in turning complex designs into pixel-perfect, functional code.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+*   **Core:** React.js, Next.js, TypeScript, Redux
+*   **Styling:** Tailwind CSS, Sass, Styled Components
+*   **Tools:** Git, Vite, Webpack, NPM/Yarn
+*   **Design:** Figma, Adobe XD
+
+## 🚀 Key Features
+*   **Responsive Design:** Optimized for all screen sizes.
+*   **Performance:** High-speed loading and optimized SEO.
+*   **Modern UI:** Engaging animations and seamless user experience.
+
+---
+
+# پویا خانی | توسعه‌دهنده فرانت‌اند
+
+به مخزن رزومه من خوش آمدید. این پروژه نمونه‌ای از فعالیت‌های من به عنوان توسعه‌دهنده فرانت‌اند است که با تمرکز بر کدهای تمیز، طراحی واکنش‌گرا (Responsive) و بهینه‌سازی عملکرد پیاده‌سازی شده است.
+
+🔗 **وب‌سایت:** [pooya-khani.ir](https://pooya-khani.ir)
+
+## 👨‍💻 درباره من
+من پویا خانی هستم؛ توسعه‌دهنده فرانت‌اند با اشتیاق به خلق رابط‌های کاربری (UI) تعاملی و بهینه. تخصص من تبدیل طرح‌های خلاقانه به کدهای دقیق و با کیفیت است.
+
+## 🛠 مهارت‌های فنی
+*   **هسته:** React.js, Next.js, TypeScript, Redux
+*   **استایل‌دهی:** Tailwind CSS, Sass, Styled Components
+*   **ابزارها:** Git, Vite, Webpack, NPM/Yarn
+*   **طراحی:** Figma, Adobe XD
+
+## 🚀 ویژگی‌های پروژه
+*   **طراحی ریسپانسیو:** بهینه‌سازی شده برای نمایش در موبایل، تبلت و دسکتاپ.
+*   **عملکرد بالا:** سرعت لود فوق‌العاده و رعایت اصول سئو (SEO).
+*   **رابط کاربری مدرن:** انیمیشن‌های روان و تجربه کاربری (UX) استاندارد.
+
+---
+
+## 📬 Contact Information
+*   **Email:** pooyakhorshidkhani@gmail.com
+*   **LinkedIn:** [linkedin.com/in/pooya-khani](https://www.linkedin.com/in/pooya-khani)
+*   **Website:** [pooya-khani.ir](https://pooya-khani.ir)
+
+*© 2026 Pooya Khani - All rights reserved.*
